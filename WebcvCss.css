@@ -1,0 +1,23 @@
+body {
+  padding: 25px 15px;
+  background-color: #e8f5f9;
+  font-family: sans-serif;
+}
+​ .Head {
+  text-align: center;
+}
+​ .Experience {
+  width: 1000px;
+  border: 15px solid blue;
+  padding: 25px;
+  margin: 25px;
+}
+​ li {
+  line-height: 29px;
+}
+​ img {
+  width: 15%;
+}
+​ h3 {
+  text-decoration: underline;
+}
